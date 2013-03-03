@@ -1,0 +1,14 @@
+{
+	"name": ".inK Packages",
+		"homepage": "http://packages.dotink.org",
+
+		"repositories": [
+			{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
+			{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" }
+		],
+
+		"require-all": true,
+		"config": {
+
+		}
+}
