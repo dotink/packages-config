@@ -3,8 +3,10 @@
 		"homepage": "http://packages.dotink.org",
 
 		"repositories": [
+			{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
 			{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
-			{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" }
+			{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" },
+			{ "type": "vcs", "url": "https://github.com/dotink/flourish-text.git" }
 		],
 
 		"require-all": true,
