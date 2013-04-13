@@ -8,6 +8,7 @@
 			{ "type": "vcs", "url": "https://github.com/dotink/flourish-json.git" },
 			{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
 			{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" },
+			{ "type": "vcs", "url": "http://git.dotink.org/tails.git" },
 			{ "type": "vcs", "url": "https://github.com/dotink/flourish-text.git" }
 		],
 
