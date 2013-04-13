@@ -1,19 +1,21 @@
 {
 	"name": ".inK Packages",
-		"homepage": "http://packages.dotink.org",
+	"homepage": "http://packages.dotink.org",
 
-		"repositories": [
-			{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
-			{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
-			{ "type": "vcs", "url": "https://github.com/dotink/flourish-json.git" },
-			{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
-			{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" },
-			{ "type": "vcs", "url": "https://github.com/dotink/flourish-text.git" },
-			{ "type": "git", "url": "http://git.dotink.org/tails.git" }
-		],
+	"repositories": [
+		{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-json.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-text.git" },
+		{ "type": "git", "url": "http://git.dotink.org/tails.git" }
+	],
 
-		"require-all": true,
-		"config": {
-
+	"require-all": true,
+	"config": {
+		"github-oauth": {
+			"github.com": "56f2873eb19b214236d9df9aed36297ebb1ecb2c"
 		}
+	}
 }
