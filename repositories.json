@@ -5,6 +5,7 @@
 	"repositories": [
 		{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-datetime.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-json.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" },
