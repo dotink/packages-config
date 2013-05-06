@@ -16,7 +16,9 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/emitter-trait.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/actioncaller-trait.git" },
 
-		{ "type": "vcs", "url": "https://github.com/nette/tracy.git" }
+		{ "type": "vcs", "url": "https://github.com/nette/tracy.git" },
+		{ "type": "vcs", "url": "https://github.com/kriswallsmith/assetic.git" },
+		{ "type": "vcs", "url": "https://github.com/symfony/Process.git" }
 
 	],
 
