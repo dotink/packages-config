@@ -19,8 +19,7 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/dub.git" },
 
 		{ "type": "vcs", "url": "https://github.com/nette/tracy.git" },
-		{ "type": "vcs", "url": "https://github.com/kriswallsmith/assetic.git" },
-		{ "type": "vcs", "url": "https://github.com/symfony/Process.git" }
+		{ "type": "vcs", "url": "https://github.com/kriswallsmith/assetic.git" }
 
 	],
 
