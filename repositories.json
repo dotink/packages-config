@@ -3,6 +3,7 @@
 	"homepage": "http://packages.dotink.org",
 
 	"repositories": [
+		{ "type": "vcs", "url": "https://github.com/dotink/affinity.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-cryptography.git" },
