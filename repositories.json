@@ -7,6 +7,7 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/dub.git" },
 
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-core.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-events.git" },
 
 		{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
