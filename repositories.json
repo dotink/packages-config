@@ -8,7 +8,7 @@
 
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-core.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-events.git" },
-		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-router.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-routing.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-request.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-response.git" },
 
