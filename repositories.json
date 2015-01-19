@@ -9,12 +9,9 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-core.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-events.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-http.git" },
-		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-routing.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-transport.git" },
-
-		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-request.git" },
-		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-response.git" },
-
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-routing.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-controller.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-view.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-html.git" },
 
