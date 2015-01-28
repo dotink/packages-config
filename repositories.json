@@ -14,6 +14,7 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-controller.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-view.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-html.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-auth.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-orm.git" },
 
 		{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
