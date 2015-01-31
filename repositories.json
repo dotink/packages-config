@@ -17,6 +17,8 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-auth.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-orm.git" },
 
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-components.git" },
+
 		{ "type": "vcs", "url": "https://github.com/dotink/thrive.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-collection.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-core.git" },
