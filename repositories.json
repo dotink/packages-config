@@ -33,6 +33,7 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-message.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-url.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/flourish-text.git" },
+		{ "type": "vcs", "url": "https://github.com/dotink/flourish-validation.git" },
 
 		{ "type": "vcs", "url": "https://github.com/dotink/container-trait.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/emitter-trait.git" },
