@@ -6,6 +6,7 @@
 		{ "type": "vcs", "url": "https://github.com/dotink/affinity.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/dub.git" },
 
+		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-docs.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-core.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-console.git" },
 		{ "type": "vcs", "url": "https://github.com/dotink/inkwell-events.git" },
